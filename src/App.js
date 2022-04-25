@@ -96,6 +96,9 @@ export default function App() {
             </div>
           </div>
         </div>
+        <a href="https://github.com/pegah1378/weather-react-app">
+          open source coded by pegah
+        </a>
       </div>
     </div>
   );
